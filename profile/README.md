@@ -40,8 +40,3 @@ Wir freuen uns über Beiträge aus der Community!
 
 ## 📅 Roadmap
 Sieh dir die [Roadmap](https://waf2p.dev/docs/roadmap/2026/) an, um kommende Features und Prioritäten zu entdecken.
-
----
-
-## 📜 Lizenz
-Dieses Projekt ist Open Source. Details findest du im Repository.
