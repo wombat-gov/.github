@@ -1,43 +1,47 @@
-
 # WAF++ – Well-Architected Framework++
 
-## 🌐 Overview
-**WAF++** (auch WAF2p) is a **community-driven, cloud-agnostic framework** designed to help organizations build secure, scalable, and efficient architectures. Our mission is to provide best practices, governance models, and resources that empower teams to deliver high-quality solutions across diverse cloud environments.
+## 🌐 Überblick
+**WAF++** (auch WAF2p) ist ein **community-getriebenes, cloud-agnostisches Framework**, das Organisationen dabei unterstützt, sichere, skalierbare und effiziente Architekturen zu entwickeln. Unsere Mission ist es, Best Practices, Governance-Modelle und Ressourcen bereitzustellen, um Teams zu befähigen, hochwertige Lösungen in unterschiedlichen Cloud-Umgebungen zu liefern.
 
 ---
 
-## 🚀 Key Features
-- **Cloud-Agnostic Design**: Works across multiple cloud providers without vendor lock-in.
-- **Community-Driven**: Built and maintained by passionate contributors.
-- **Well-Architected Principles**: Aligns with industry standards for reliability, security, and performance.
-- **Extensible Framework**: Includes architecture guidelines, governance, and best practices.
+## 🚀 Hauptmerkmale
+- **Cloud-agnostisches Design**: Funktioniert über mehrere Cloud-Anbieter hinweg ohne Vendor-Lock-in.
+- **Community-getrieben**: Entwickelt und gepflegt von engagierten Mitwirkenden.
+- **Well-Architected-Prinzipien**: Entspricht Branchenstandards für Zuverlässigkeit, Sicherheit und Performance.
+- **Erweiterbares Framework**: Enthält Architektur-Richtlinien, Governance und Best Practices.
 
 ---
 
 ## 📂 Repositories
-- [**Website**](https://github.com/WAF2p/waf2p.github.io) – Public site showcasing the framework.
-- [**Framework**](https://github.com/WAF2p/framework) – The actual WAF++ framework, including:
-  - **Architecture**
+- https://github.com/WAF2p/waf2p.github.io – Öffentliche Seite mit Framework-Infos.
+- [**Framework**](https://github.com/WAF2p/framework) – Das eigentliche WAF++-Framework, inklusive:
+  - **Architektur**
   - **Best Practices**
   - **Governance & Community**
-  - **Pillars**
-  - **Resources**
+  - **Säulen**
+  - **Ressourcen**
   - **Roadmap**
 
 ---
 
-## 📖 Documentation
-Visit our [website](https://waf2p.dev/) for detailed documentation, guides, and resources.
+## 📖 Dokumentation
+Besuche unsere Seite https://waf2p.dev für ausführliche Dokumentation, Anleitungen und Ressourcen.
 
 ---
 
-## 🤝 How to Contribute
-We welcome contributions from the community!  
-- Fork the repository and submit pull requests.
-- Join discussions in our [GitHub Discussions](https://github.com/orgs/WAF2p/discussions).
-- Share ideas and feedback to improve the framework.
+## 🤝 Mitwirken
+Wir freuen uns über Beiträge aus der Community!  
+- Forke das Repository und erstelle Pull Requests.
+- Nimm an Diskussionen in unseren [GitHub Discussions](https://github.com/orgs/WAF2p/discussions) teil.
+- Teile Ideen und Feedback, um das Framework zu verbessern.
 
 ---
 
 ## 📅 Roadmap
-Check out the [roadmap](https://waf2p.dev/docs/roadmap/2026/) to see upcoming features and priorities.
+Sieh dir die [Roadmap](https://waf2p.dev/docs/roadmap/2026/) an, um kommende Features und Prioritäten zu entdecken.
+
+---
+
+## 📜 Lizenz
+Dieses Projekt ist Open Source. Details findest du im Repository.
