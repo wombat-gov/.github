@@ -109,7 +109,7 @@ what has shipped.
 
 ## 🔐 Security
 
-Report security issues to **page@wombat-gocy is
+Report security issues to **page@wombat-gov.dev**, more info
 published at https://www.wombat-gov.dev/.well-known/security.txt
 
 ---
