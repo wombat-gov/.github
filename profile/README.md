@@ -48,8 +48,7 @@ scored, and evidenced.
 | **Compliance** | Mappings for 50+ frameworks, including ISO 27001, BSI C5, NIS2, SOC 2, HIPAA, and GDPR |
 | **Governance** | Roles, decision recordsn public |
 
-Explore the pillars at https://www.wombat-ontrol
-showcase at https://www.wombat-gov.dev/controls/.
+Explore the pillars at https://www.wombat-gov.dev/controls/.
 
 ---
 
